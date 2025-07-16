@@ -1,0 +1,7 @@
+checkpoint/*
+vggt/.gradio/
+vggt/input_images_*
+vggt/vggt.egg-info
+sparse
+images*
+*.MP4

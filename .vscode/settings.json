@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "vggt"
+    ],
+    "terminal.integrated.defaultProfile.linux": "zsh",
+}
